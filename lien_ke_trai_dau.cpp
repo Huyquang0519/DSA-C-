@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
-
-
-
+// Test thu git thoi
 int main(){
     
     int n; cin >> n;
